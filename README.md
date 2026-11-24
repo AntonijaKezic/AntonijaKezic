@@ -5,8 +5,6 @@
 
 <div align="center">
 
-### Computer Engineering Student
-
 `Building` · `Learning` · `Creating`
 
 </div>
