@@ -15,19 +15,19 @@
 
 Hi! I'm **Antonija Kežić**, a fourth-year Computer Engineering student at **FESB, University of Split** (*univ. bacc. comp. eng.*).
 
-I'm interested in software development, optimization, algorithms, and problem-solving. Through academic projects and practical assignments, I enjoy applying engineering concepts to real-world challenges.
+I'm interested in software development, optimization, algorithms, and problem-solving. Through academic projects and coursework, I enjoy applying theoretical knowledge to practical engineering challenges.
 
 - 🎓 Fourth-year Computer Engineering student at FESB
 - ⚡ Developing an academic project focused on Battery Energy Storage System (BESS) optimization
-- 💻 Experience with C, C++, and Python
-- 🗄️ Familiar with SQL and database fundamentals
-- 🐧 Working with Linux and Git
-- 🎯 Interested in software development and engineering challenges
+- 💻 Working with C, C++, Python, and HTML
+- 🗄️ Basic knowledge of SQL and relational databases
+- 🐧 Academic experience with Linux
+- 🔧 Familiar with Git and version control
 - 📚 Currently learning JavaScript through freeCodeCamp
 
 ---
 
-## Technologies & Tools
+## Programming Languages & Technologies
 
 <div align="center">
 
@@ -36,11 +36,13 @@ I'm interested in software development, optimization, algorithms, and problem-so
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
 
-![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
-
 </div>
+
+### Additional Knowledge
+
+- **SQL:** Basic knowledge of queries and relational databases
+- **Git:** Familiar with version control and basic Git workflows
+- **Linux:** Academic experience through university lab assignments
 
 ---
 
@@ -50,7 +52,7 @@ I'm interested in software development, optimization, algorithms, and problem-so
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
 
-**JavaScript** through [freeCodeCamp](https://www.freecodecamp.org/)
+Learning JavaScript through [freeCodeCamp](https://www.freecodecamp.org/).
 
 </div>
 
