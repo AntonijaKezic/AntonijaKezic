@@ -40,6 +40,7 @@ I'm passionate about programming, problem-solving, algorithms, and data structur
 
 ---
 
+
 ## Featured Projects
 
 ### ⭐ BESS Optimization
@@ -52,15 +53,12 @@ My featured project — Battery Energy Storage System optimization.
 
 <div align="center">
 
-[![Ultra-Zadace](https://github-readme-stats.vercel.app/api/pin/?username=AntonijaKezic&repo=-Ultra-Zadace&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/AntonijaKezic/-Ultra-Zadace)
-
 [![Strukture](https://github-readme-stats.vercel.app/api/pin/?username=AntonijaKezic&repo=Strukture&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/AntonijaKezic/Strukture)
-
-[![StrukturePodataka](https://github-readme-stats.vercel.app/api/pin/?username=AntonijaKezic&repo=StrukturePodataka&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/AntonijaKezic/StrukturePodataka)
 
 [![Calendar](https://github-readme-stats.vercel.app/api/pin/?username=AntonijaKezic&repo=Calendar&theme=github_dark&hide_border=true&bg_color=0D1117)](https://github.com/AntonijaKezic/Calendar)
 
 </div>
+
 
 ---
 
