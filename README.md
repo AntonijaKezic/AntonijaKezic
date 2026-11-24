@@ -59,13 +59,6 @@ My featured project — Battery Energy Storage System optimization.
 
 
 ---
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AntonijaKezic&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF" height="165" />
-
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AntonijaKezic&bg_color=0D1117&color=C9D1D9&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" width="100%" />
