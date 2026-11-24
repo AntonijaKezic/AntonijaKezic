@@ -10,19 +10,16 @@
 </div>
 
 ---
-
 ## About Me
 
-Hi! I'm **Antonija Kezic**, a Computer Engineering student (*univ. bacc. comp. eng.*).
+Hi! I'm **Antonija Kežić**, a fourth-year Computer Engineering student at FESB, University of Split (*univ. bacc. comp. eng.*).
 
-I'm passionate about programming, problem-solving, algorithms, and data structures. I enjoy developing projects, exploring new technologies, and continuously improving my skills.
+I'm interested in software development, optimization, algorithms, and problem-solving. Through academic and personal projects, I enjoy applying theoretical knowledge to practical engineering challenges.
 
-- 🎓 Computer Engineering student
-- 💻 Interested in software development
-- ⚡ Working on BESS Optimization
-- 🌱 Always learning and improving
-- 🧩 Interested in algorithms and data structures
-
+- 🎓 Fourth-year Computer Engineering student at FESB
+- ⚡ Working on Battery Energy Storage System (BESS) optimization
+- 💻 Programming in C, C++, and Python
+- 🌱 Continuously developing my software engineering skills
 ---
 
 ## Technologies & Tools
